@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-As a finance professional for over 20 years, I have built many financial models and valuation studies for capital budgeting, debt restructuring, and merger & acquisition for various industries.
+As a finance professional for over 20 years, I have built many financial models and valuation studies for capital budgeting, debt restructuring, and merger & acquisition for various industries. Building models and analyzing data have been my passion.
 
-During lockdown due to Covid 19 pandemic in 2000, I started learning data science. I started learning Python and R and taking data science courses.  
+During lockdown due to Covid 19 pandemic in 2000, I got introduced to data science and started learning Python and R programming languages and taking data science courses.  
 
 
 <!--
