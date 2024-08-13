@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+As a finance professional for over 20 years, I have built many financial models and valuation studies for capital budgeting, debt restructuring, and merger & acquisition for various industries.
+
+During lockdown due to Covid 19 pandemic in 2000, I started learning data science. I started learning Python and R and taking data science courses.  
+
+
 <!--
 **Efendi72/Efendi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
