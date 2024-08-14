@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-A finance professional who is passionate about building models and creating technology that give access to more people.
+I am a finance professional who is passionate about building models and creating technology that give access to more people.
 
 Throughout my twenty-year professional career, I have built many financial models for capital budgeting, debt restructuring, and merger & acquisition for various industries.
 
