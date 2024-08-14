@@ -1,5 +1,5 @@
 
-https://github.com/Efendi72/Efendi72/blob/main/Hello%2C%20I%20am%20Efendi%20Sutrisno.png
+<img src="https://github.com/Efendi72/Efendi72/blob/main/Hello%2C%20I%20am%20Efendi%20Sutrisno.png">
 
 ## Hi there 👋
 
