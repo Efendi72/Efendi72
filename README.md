@@ -10,6 +10,9 @@ Throughout my twenty-year professional career, I have built many financial model
 During lockdown due to Covid 19 pandemic in 2000, I got introduced to data science and started learning Python and R programming languages and taking data science courses.  
 
 
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FEfendiSutrisno1)
+
+
 <!--
 **Efendi72/Efendi72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
