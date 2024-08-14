@@ -9,6 +9,7 @@ Throughout my twenty-year professional career, I have built many financial model
 
 During lockdown due to Covid 19 pandemic in 2000, I got introduced to data science and started learning Python and R programming languages and taking data science courses.  
 
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?logo=Python&logoColor=black&logoSize=auto)
 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FEfendiSutrisno1)
 
