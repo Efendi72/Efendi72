@@ -3,12 +3,13 @@
 
 # About Me 👋
 
-I am a finance professional who is passionate about building models and creating technology that give access to more people.
+I’m a finance professional with over twenty years of experience developing financial models for capital budgeting, debt restructuring, and mergers and acquisitions across a wide range of industries. 
 
-Throughout my twenty-year professional career, I have built many financial models for capital budgeting, debt restructuring, and merger & acquisition for various industries.
+My work has always been driven by a desire to build tools and systems that expand access and create meaningful impact. 
 
-During lockdown due to Covid 19 pandemic in 2000, I got introduced to data science and started learning Python and R programming languages and taking data science courses.  
+During the COVID-19 lockdown, I discovered data science, which sparked a new passion for leveraging data to solve complex problems. Since then, I have been actively building my skills in Python and R, completing data science courses, getting a master degree in data science as well as exploring real-world applications. 
 
+I’m especially interested in collaborating on data science projects where I can combine my financial expertise with modern analytical techniques to create practical, data-driven solutions.
 
 # Connect with Me 
 
